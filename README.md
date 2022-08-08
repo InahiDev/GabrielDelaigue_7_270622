@@ -1,6 +1,6 @@
 # P7 OpenClassrooms - Créez un réseau social d'entreprise
 
-Ce projet est axé sur la création d'un réseau social d'entreprise disponible pour les employés d'un gorupe "Groupomania".
+Ce projet est axé sur la création d'un réseau social d'entreprise disponible pour les employés d'un gorupe "Groupomania". </br>
 Il est entièrement construit sur le localhost
 
 ## Création des dossiers et sous-dossiers, imports des repos
